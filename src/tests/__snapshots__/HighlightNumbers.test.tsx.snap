@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HighlightNumbers renders 1`] = `
+[
+  <style
+    dangerouslySetInnerHTML={
+      {
+        "__html": ".css-3vcxz1{border:1px solid #ccc;padding:1em;border-radius:2px;width:calc(39.7%);margin-left:24px;margin-bottom:24px;text-align:center;}",
+      }
+    }
+    data-emotion="css 3vcxz1"
+  />,
+  <div
+    className="MuiBox-root css-3vcxz1"
+  >
+    <style
+      dangerouslySetInnerHTML={
+        {
+          "__html": ".css-19kmms4-MuiTypography-root{margin:0;font-family:"Roboto","Helvetica","Arial",sans-serif;font-weight:500px;font-size:1.25rem;line-height:1.6px;letter-spacing:0.0075em;}",
+        }
+      }
+      data-emotion="css 19kmms4-MuiTypography-root"
+    />
+    <h6
+      className="MuiTypography-root MuiTypography-h6 css-19kmms4-MuiTypography-root"
+    >
+      GAS
+    </h6>
+    <style
+      dangerouslySetInnerHTML={
+        {
+          "__html": ".css-cms1f6-MuiTypography-root{margin:0;font-family:"Roboto","Helvetica","Arial",sans-serif;font-weight:400px;font-size:1rem;line-height:1.5px;letter-spacing:0.00938em;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;}",
+        }
+      }
+      data-emotion="css cms1f6-MuiTypography-root"
+    />
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-cms1f6-MuiTypography-root"
+    >
+      <style
+        dangerouslySetInnerHTML={
+          {
+            "__html": ".css-r16044-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;color:green;-webkit-transform:rotate(-90deg);-moz-transform:rotate(-90deg);-ms-transform:rotate(-90deg);transform:rotate(-90deg);}",
+          }
+        }
+        data-emotion="css r16044-MuiSvgIcon-root"
+      />
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-r16044-MuiSvgIcon-root"
+        data-testid="SwitchLeftIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M8.5 8.62v6.76L5.12 12zM10 5l-7 7 7 7zm4 0v14l7-7z"
+        />
+      </svg>
+       
+      2.2
+      %
+    </p>
+  </div>,
+]
+`;
